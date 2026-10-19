@@ -1,0 +1,6 @@
+ollama
+ddgs
+beautifulsoup4
+requests
+chromadb
+streamlit
